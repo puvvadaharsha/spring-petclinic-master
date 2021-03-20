@@ -6,7 +6,7 @@
 
 - [5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
   
-  ![Link to Dockerfile](./Dockerfile)
+  [Link to Dockerfile](./Dockerfile)
 
 - [5 pts] Your running docker instance as shown by a ps command.
   ![Docker ps](./figures/docker_q2.png)
@@ -30,11 +30,11 @@
 
 - [5 pts] Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
   
-  ![link to docker-compose.yml file](./docker-compose.yml)
+  [link to docker-compose.yml file](./docker-compose.yml)
 
 - [5 pts] Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
   
-  ![link to docker-compose.yml file](./src/main/resources/application-mysql.properties)
+  [link to docker-compose.yml file](./src/main/resources/application-mysql.properties)
 
 - [5 pts] The output from the docker-compose up command.
     ![docker-compose output](./figures/dockerAppServer-q3.1.png)
